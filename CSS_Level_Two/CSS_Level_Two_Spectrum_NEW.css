@@ -1,0 +1,44 @@
+td {
+  height: 400px;
+  width: 150px;
+  border: 6px solid white;
+}
+#one {
+
+  background-color: #363020;
+
+}
+
+#two {
+
+  background-color: #605C4E;
+
+}
+
+#three {
+
+  background-color: #A49966;
+
+}
+
+#four{
+
+  background-color: #C7C7A6;
+
+}
+
+#five {
+
+  background-color: #EAFFDA;
+
+}
+
+.table {
+  margin: auto
+}
+
+caption {
+  font-family: 'Baloo Bhai', cursive;
+  font-size: 50px;
+
+}

@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  color: white;
+  font-family: 'Fira Sans', sans-serif;
+  border: 60px solid #80edc3;
+  border-top: 0px;
+  background-color: #05103a;
+
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+p{
+  margin-left:20% ;
+  margin-right:20% ;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+#Submit{
+  border: 2px solid white;
+  border-radius: 20px;
+  background-color: yellow;
+  font-size: 30px;
+  height: 80px;
+  width: 150px;
+}
+.emailform{
+  font-size: 20px;
+}
+.emailform input{
+  font-size: 20px;
+}
